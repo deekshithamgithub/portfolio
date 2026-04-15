@@ -46,12 +46,27 @@ export default function Portfolio() {
               Event evaluation platform with scoring and analytics.
             </p>
             <div className="mt-4 space-x-4">
-              <a href="#" className="text-blue-400">
+              <a
+                href="https://eval-desk.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Live
+              </a>
+
+              <a
+                href="https://github.com/deekshithamgithub/eval_desk"
+                target="_blank"
+                rel="noreferrer"
+              >
+                GitHub
+              </a>
+              {/* <a href="#" className="text-blue-400">
                 https://eval-desk.netlify.app/
               </a>
               <a href="#" className="text-blue-400">
                 https://github.com/deekshithamgithub/eval_desk
-              </a>
+              </a> */}
             </div>
           </div>
 
@@ -62,7 +77,25 @@ export default function Portfolio() {
               Track expenses with categories and insights.
             </p>
             <div className="mt-4 space-x-4">
-              <a href="#" className="text-blue-400">
+              <a
+                href="https://deeksh-expense-tracker.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Live
+              </a>
+
+              <a
+                href="backend:
+                https://github.com/deekshithamgithub/personal-expense-tracker
+                frontend:
+                https://github.com/deekshithamgithub/personal-expense-tracker-frontend"
+                target="_blank"
+                rel="noreferrer"
+              >
+                GitHub
+              </a>
+              {/* <a href="#" className="text-blue-400">
                 https://deeksh-expense-tracker.netlify.app/
               </a>
               <a href="#" className="text-blue-400">
@@ -70,7 +103,7 @@ export default function Portfolio() {
                 https://github.com/deekshithamgithub/personal-expense-tracker
                 frontend:
                 https://github.com/deekshithamgithub/personal-expense-tracker-frontend
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
